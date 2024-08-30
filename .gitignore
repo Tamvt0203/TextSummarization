@@ -1,0 +1,12 @@
+# Ignore SQLite3 database files
+*.sqlite3
+
+# Ignore Python cache files and directories
+__pycache__/
+*.pyc
+
+# Ignore model files with .h5 extension
+*.h5
+
+# Ignore model files with .pth extension
+*.pth

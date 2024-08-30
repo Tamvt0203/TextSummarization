@@ -1,0 +1,1 @@
+default_app_config = 'ts_app.apps.TsAppConfig'
